@@ -4,5 +4,16 @@ Design by:
 
 ## Main
  <p>
-    <img align="left" src="https://github.com/Juandavid716/ps2-Keyboard-arrow-pointer/tree/master/vgaimages/keyboardimg" width="1200"  /> 
+    <img align="left" src="https://github.com/Juandavid716/ps2-Keyboard-arrow-pointer/blob/master/vgaimages/keyboardimg.png" width="1200"  /> 
+  </p>
+
+## Keycodes
+
+ <p>
+    <img align="left" src="https://github.com/Juandavid716/ps2-Keyboard-arrow-pointer/blob/master/vgaimages/keycodes.png" width="1000"  /> 
+  </p>
+  
+## Arrow pointer
+<p>
+    <img align="left" src="https://github.com/Juandavid716/ps2-Keyboard-arrow-pointer/blob/master/vgaimages/pointerimage.jpg" width="1000"  /> 
   </p>
