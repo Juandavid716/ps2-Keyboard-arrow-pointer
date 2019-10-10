@@ -1,0 +1,91 @@
+Restore Archived Project report for vga_with_hw_test_image
+Fri Sep 27 20:54:42 2019
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Fri Sep 27 20:54:42 2019 ;
+; Revision Name                   ; vga_with_hw_test_image                ;
+; Top-level Entity Name           ; vga_with_hw_test_image                ;
+; Family                          ; Arria II GX                           ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/CORE I5 6TA/Documents/LibrosJuan/Programas semanales/Sexto semestre/Estructura del compu 1/Final/vga/vga_with_hw_test_image_v1_1.qar' into the 'C:/Users/CORE I5 6TA/Documents/LibrosJuan/Programas semanales/Sexto semestre/Estructura del compu 1/Final/vga/vga_with_hw_test_image_v1_1_restored/' directory
+Info: Generated report 'vga_with_hw_test_image.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/18.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 19 warnings
+    Info: Peak virtual memory: 4778 megabytes
+    Info: Processing ended: Fri Sep 27 20:54:43 2019
+    Info: Elapsed time: 00:00:13
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------+
+; Files Restored ;
++----------------+
+; File Name      ;
++----------------+
+
+
++------------------------------------------------+
+; Files Not Restored                             ;
++------------------------------------------------+
+; File Name                                      ;
++------------------------------------------------+
+; qar_info.json                                  ;
+; altpll0.bsf                                    ;
+; altpll0.cmp                                    ;
+; altpll0.ppf                                    ;
+; altpll0.qip                                    ;
+; altpll0.vhd                                    ;
+; hw_image_generator.vhd                         ;
+; vga_controller.vhd                             ;
+; vga_pll.bsf                                    ;
+; vga_pll.cmp                                    ;
+; vga_pll.ppf                                    ;
+; vga_pll.qip                                    ;
+; vga_pll.vhd                                    ;
+; vga_with_hw_test_image.bdf                     ;
+; vga_with_hw_test_image.out.sdc                 ;
+; vga_with_hw_test_image.qpf                     ;
+; vga_with_hw_test_image.qsf                     ;
+; vga_with_hw_test_image_assignment_defaults.qdf ;
++------------------------------------------------+
+
+

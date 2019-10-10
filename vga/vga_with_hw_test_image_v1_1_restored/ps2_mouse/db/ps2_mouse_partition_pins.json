@@ -1,0 +1,125 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "mouse_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[8]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[9]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[10]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[11]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[12]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[13]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[14]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[15]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[16]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[17]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[18]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[19]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[20]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[21]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[22]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data[23]",
+					"strict" : false
+				},
+				{
+					"name" : "mouse_data_new",
+					"strict" : false
+				},
+				{
+					"name" : "ps2_clk",
+					"strict" : false
+				},
+				{
+					"name" : "ps2_data",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset_n",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

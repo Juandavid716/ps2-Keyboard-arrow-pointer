@@ -1,0 +1,17 @@
+
+State Machine - |ps2_mouse|state
+Name state.stream state.rx_ack2 state.ena_reporting state.rx_id state.rx_bat state.rx_ack1 state.reset 
+state.reset 0 0 0 0 0 0 0 
+state.rx_ack1 0 0 0 0 0 1 1 
+state.rx_bat 0 0 0 0 1 0 1 
+state.rx_id 0 0 0 1 0 0 1 
+state.ena_reporting 0 0 1 0 0 0 1 
+state.rx_ack2 0 1 0 0 0 0 1 
+state.stream 1 0 0 0 0 0 1 
+
+State Machine - |ps2_mouse|ps2_transceiver:ps2_transceiver_0|state
+Name state.tx_complete state.transact state.inhibit state.receive 
+state.receive 0 0 0 0 
+state.inhibit 0 0 1 1 
+state.transact 0 1 0 1 
+state.tx_complete 1 0 0 1 

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Sep 26 16:18:59 2019
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : vga_with_hw_test_image
+Top-level Entity Name : vga_with_hw_test_image
+Family : Cyclone IV E
+Total logic elements : 1,116
+    Total combinational functions : 1,095
+    Dedicated logic registers : 180
+Total registers : 180
+Total pins : 36
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
